@@ -1,5 +1,5 @@
 # 투포인터
-[메인으로 돌아가기](https://github.com/Altu-Bitu-7/Notice) 
+[메인으로 돌아가기](https://github.com/Altu-Bitu-10/Notice) 
 ## 💻 튜터링 
 ### 라이브 코딩
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
@@ -8,20 +8,17 @@
 | [11659](https://www.acmicpc.net/problem/11659) | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기]() | 누적 합 |
 | [21921](https://www.acmicpc.net/problem/21921) | [블로그](https://www.acmicpc.net/problem/21921) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기]() | 누적 합, 슬라이딩 윈도우 |
 ## ✏️ 과제 
-### 마감기한
-~ 11 / 12 (화) 18:59 - 과제 제출 </br>
-~ 11 / 14 (목) 23:59 - 추가 제출 </br>
 ### 필수
-| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
-| :-: | :-: | :-: | :-: | :-: |
-| [2531](https://www.acmicpc.net/problem/2531) | [회전 초밥](https://www.acmicpc.net/problem/2531) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기]() | 브루트포스 알고리즘, 두 포인터 |
-| [14503](https://www.acmicpc.net/problem/14503) | [로봇 청소기](https://www.acmicpc.net/problem/14503) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [v1 바로가기]() [v2 바로가기]() | 구현, 시뮬레이션 |
-| [20922](https://www.acmicpc.net/problem/20922) | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기]() | 두 포인터 |
+| 문제 번호 | 문제 이름 | 난이도 | 분류 |
+| :-: | :-: | :-: | :-: |
+| [2531](https://www.acmicpc.net/problem/2531) | [회전 초밥](https://www.acmicpc.net/problem/2531) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 브루트포스 알고리즘, 두 포인터 |
+| [14503](https://www.acmicpc.net/problem/14503) | [로봇 청소기](https://www.acmicpc.net/problem/14503) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 구현, 시뮬레이션 |
+| [20922](https://www.acmicpc.net/problem/20922) | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 두 포인터 |
 ### 도전
-| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
-| :-: | :-: | :-: | :-: | :-: |
-| [2473](https://www.acmicpc.net/problem/2473) | [세 용액](https://www.acmicpc.net/problem/2473) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기]() | 이분 탐색, 정렬, 두 포인터 |
-| [20437](https://www.acmicpc.net/problem/20437) | [문자열 게임 2](https://www.acmicpc.net/problem/20437) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기]() | 슬라이딩 윈도우, 문자열 |
+| 문제 번호 | 문제 이름 | 난이도 | 분류 |
+| :-: | :-: | :-: | :-: |
+| [2473](https://www.acmicpc.net/problem/2473) | [세 용액](https://www.acmicpc.net/problem/2473) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 이분 탐색, 정렬, 두 포인터 |
+| [20437](https://www.acmicpc.net/problem/20437) | [문자열 게임 2](https://www.acmicpc.net/problem/20437) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 슬라이딩 윈도우, 문자열 |
 ---
  ### 힌트
 <details><summary>로봇 청소기</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;청소할 공간이 없을 때까지 계속해서 청소하는 방식이네요. 배웠던 알고리즘과 비슷해보이지 않나요? 방향에 유의하여 풀어보아요.</div></details>
