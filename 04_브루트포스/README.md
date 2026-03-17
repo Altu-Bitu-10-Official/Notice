@@ -1,5 +1,5 @@
 # 브루트포스
-[메인으로 돌아가기](https://github.com/Altu-Bitu-8/Notice) 
+[메인으로 돌아가기](https://github.com/Altu-Bitu-10/Notice) 
 ## 💻 튜터링 
 ### 라이브 코딩
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
