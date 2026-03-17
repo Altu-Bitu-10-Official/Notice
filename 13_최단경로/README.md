@@ -1,5 +1,5 @@
 # 최단 경로 (Shortest Path)
-[메인으로 돌아가기](https://github.com/Altu-Bitu-10/Notice) 
+[메인으로 돌아가기](https://github.com/Altu-Bitu-10-Official/Notice) 
 
 ## 💻 튜터링
 
