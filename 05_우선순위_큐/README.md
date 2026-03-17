@@ -7,20 +7,17 @@
 | [11279](https://www.acmicpc.net/problem/11279) | [최대 힙](https://www.acmicpc.net/problem/11279) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [v1 바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/05_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84_%ED%81%90/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/11279_v1.cpp) <br>[v2 바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/05_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84_%ED%81%90/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/11279_v2.cpp) <br>[v3 바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/05_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84_%ED%81%90/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/11279_v3.cpp) | 자료 구조, 우선순위 큐 |
 | [11286](https://www.acmicpc.net/problem/11286) | [절댓값 힙](https://www.acmicpc.net/problem/11286) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/05_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84_%ED%81%90/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/11286.cpp) | 자료 구조, 우선순위 큐 |
 ## ✏️ 과제
-### 마감기한
-~ 3 / 21 (금) 18:59 - 과제 제출 </br>
-~ 3 / 23 (일) 23:59 - 추가 제출 </br>
 ### 필수
-| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
-| :-: | :-: | :-: | :-: | :-: |
-| [2075](https://www.acmicpc.net/problem/2075) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/05_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84_%ED%81%90/%ED%95%84%EC%88%98/2075.cpp) | 자료 구조, 우선순위 큐, 정렬 |
-| [2607](https://www.acmicpc.net/problem/2607) | [비슷한 단어](https://www.acmicpc.net/problem/2607) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/05_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84_%ED%81%90/%ED%95%84%EC%88%98/2607.cpp) | 구현, 문자열 |
-| [19640](https://www.acmicpc.net/problem/19640) | [화장실의 규칙](https://www.acmicpc.net/problem/19640) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/05_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84_%ED%81%90/%ED%95%84%EC%88%98/19640.cpp) | 구현, 자료 구조, 시뮬레이션, 우선순위 큐 |
+| 문제 번호 | 문제 이름 | 난이도 | 분류 |
+| :-: | :-: | :-: | :-: |
+| [2075](https://www.acmicpc.net/problem/2075) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 자료 구조, 우선순위 큐, 정렬 |
+| [2607](https://www.acmicpc.net/problem/2607) | [비슷한 단어](https://www.acmicpc.net/problem/2607) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | 구현, 문자열 |
+| [19640](https://www.acmicpc.net/problem/19640) | [화장실의 규칙](https://www.acmicpc.net/problem/19640) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 구현, 자료 구조, 시뮬레이션, 우선순위 큐 |
 ### 도전
-| 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
-| :-: | :-: | :-: | :-: | :-: |
-| [1655](https://www.acmicpc.net/problem/1655) | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/05_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84_%ED%81%90/%EB%8F%84%EC%A0%84/1655.cpp) | 자료 구조, 우선순위 큐 |
-| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Lv.3 | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/05_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84_%ED%81%90/%EB%8F%84%EC%A0%84/p_42627.cpp) | 우선순위 큐 |
+| 문제 번호 | 문제 이름 | 난이도 | 분류 |
+| :-: | :-: | :-: | :-: |
+| [1655](https://www.acmicpc.net/problem/1655) | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | 자료 구조, 우선순위 큐 |
+| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Lv.3 | 우선순위 큐 |
 ---
 ### 힌트
 <details><summary>비슷한 단어</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;문제의 조건대로 구현해주시면 됩니다 :)</div></details>
