@@ -5,7 +5,7 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: |:----------------------------------------------------------------------------------------------------------------------------------------------:| :-: |
 | [2309](https://www.acmicpc.net/problem/2309) | [일곱난쟁이](https://www.acmicpc.net/problem/2309) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/2309.cpp)  | 브루트포스, 정렬 |
-| [2231](https://www.acmicpc.net/problem/2231) | [분해합](https://www.acmicpc.net/problem/2960) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/2231.cpp)  | 브루트포스 |
+| [2231](https://www.acmicpc.net/problem/2231) | [분해합](https://www.acmicpc.net/problem/2231) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/2231.cpp)  | 브루트포스 |
 | [28239](https://www.acmicpc.net/problem/28239) | [배고파(Easy)](https://www.acmicpc.net/problem/28239) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/28239.cpp) | 비트마스킹 |
 ## ✏️ 과제 
 ### 필수
